@@ -1,39 +1,54 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ayush%20Juyal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Engineer%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20M.Sc.%20Data%20Science%20%40%20TU%20Braunschweig%20%F0%9F%87%A9%F0%9F%87%AA&descSize=17&descAlignY=60&descColor=a5b4fc" />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Juyal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=GenAI%20Engineer%20%7C%20ML%20Researcher%20%7C%20M.Sc.%20Data%20Science%20%40%20TU%20Braunschweig&descSize=16&descAlignY=55" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=700&color=A5B4FC&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%9A%80+Building+production+GenAI+apps+that+ship+to+real+users;%F0%9F%94%AC+Symbolic+Regression+%7C+Physics-Informed+ML+%7C+GNNs;%F0%9F%9B%A9%EF%B8%8F+Aerospace+AI+%40+Aerodata+AG+%E2%80%94+real-time+sensor+%26+mission+data;%F0%9F%A7%A0+RAG+pipelines+%7C+LLM+routing+%7C+Agentic+AI;%F0%9F%8E%AF+Open+to+GenAI+%2F+AI+Engineering+%2F+Data+Science+in+EU" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&random=false&width=750&lines=Building+production+AI+that+actually+helps+people+%E2%9C%A8;RAG+pipelines+%C2%B7+LLMs+%C2%B7+Agentic+AI+%C2%B7+GenAI+Apps;Symbolic+Regression+%C2%B7+GNNs+%C2%B7+Explainable+AI+%F0%9F%94%AC;Aerospace+AI+%40+Aerodata+AG+%C2%B7+ML+Research+%40+iPAT+%F0%9F%9A%80;Open+to+GenAI+%2F+AI+Engineering+%2F+Data+Science+roles+%F0%9F%8E%AF" alt="Typing SVG" />
-
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ayush009&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/ayush009)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Juyal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushjuyal1)
-[![Email](https://img.shields.io/badge/Gmail-aayushjuyal0%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aayushjuyal0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ayush009-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ayush009)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Juyal-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushjuyal1)
+[![Email](https://img.shields.io/badge/Gmail-aayushjuyal0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aayushjuyal0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ayush009-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush009)
+[![Profile Views](https://komarev.com/ghpvc/?username=ayush009&color=7c3aed&style=for-the-badge&label=Profile+Views)](https://github.com/ayush009)
 
 </div>
 
 ---
 
-## ⚡ About Me
+<div align="center">
+
+### ⚡ By the Numbers
+
+| 🔢 Metric | 📈 Result |
+|-----------|-----------|
+| ML model R² improvement | **0.59 → 0.86** via feature selection & symbolic ranking |
+| Symbolic regression accuracy | **R² = 0.9968 · F1 = 1.00** on ground-truth formulas |
+| Pipeline speedup | **386s → 118s** · 3.3× faster through backend optimization |
+| Clinical AI shipped | **0 → production** · PlainSpeak live on Render, 100% free stack |
+
+</div>
+
+---
+
+## 🧠 Who Am I?
 
 ```python
-ayush = {
-    "role"        : "M.Sc. Data Science @ TU Braunschweig 🇩🇪",
-    "currently"   : [
+class AyushJuyal:
+    role        = "M.Sc. Data Science @ TU Braunschweig 🇩🇪"
+    currently   = [
         "🛩️  Working Student — Technology Scouting & MR/VR Dev @ Aerodata AG",
-        "🔬  HiWi Researcher — Symbolic Regression & ML @ iPAT, TU Braunschweig",
-    ],
-    "building"    : "Production GenAI — RAG pipelines, LLM apps, Agentic AI",
-    "researching" : "Symbolic Regression · Physics-Informed ML · Interpretable AI · GNNs",
-    "skills"      : ["FastAPI", "LangChain", "PyTorch", "OpenRouter", "Qdrant", "Docker"],
-    "seeking"     : "GenAI / LLM Engineering / AI Research roles in EU 🎯",
-    "location"    : "Braunschweig, Germany 📍 | Open to remote / hybrid across EU 🌍",
-    "languages"   : ["English 🇬🇧 (Fluent)", "German 🇩🇪 (B1 → B2 in progress)"],
-    "fun_fact"    : "Taught kids with autism in China as an AIESEC volunteer 🌏",
-}
+        "🔬  HiWi Researcher — Symbolic Regression & Physics-Informed ML @ iPAT",
+    ]
+    shipping    = "Production GenAI — RAG pipelines, multi-LLM routing, Agentic AI"
+    researching = "Symbolic Regression · GNNs · Explainable AI · Physics-Informed ML"
+    seeking     = "GenAI / LLM Engineering / AI Research roles in EU 🎯"
+    open_to     = ["Working Student 20h/week", "Full-time post-graduation"]
+    location    = "Braunschweig 📍 | Remote / Hybrid EU 🌍"
+    superpower  = "Turning complex AI research into real products people actually use"
+    fun_fact    = "Taught kids with autism in China as an AIESEC volunteer 🌏"
+
+    def __str__(self):
+        return "Engineer who bridges research ↔ production"
 ```
 
 ---
@@ -44,26 +59,28 @@ ayush = {
 <tr>
 <td width="50%" valign="top">
 
-### 🛩️ Aerodata AG
-**Working Student — Technology Scouting & MR/VR Development**
-`Dec 2025 – Present · Braunschweig, Germany`
+<h3>🛩️ Aerodata AG &nbsp;<sub><code>Dec 2025 – Present</code></sub></h3>
+
+**Working Student · Technology Scouting & MR/VR Development**
+*Brunswick, Germany · On-site*
 
 - Processing **real-time sensor & mission data** for remote sensing, surveillance, and flight inspection systems
-- Building **data-driven HMIs** for operators navigating complex aerospace information
-- Evaluating **simulation workflows** and prototype tech stacks with focus on system behavior & data interpretation
-- Exploring **MR/VR** for 3D data visualization, situational awareness, and decision support
+- Designing **data-driven HMIs** so operators can navigate complex aerospace information under pressure
+- Evaluating **simulation workflows** and prototype technology with a focus on data interpretation & system behavior
+- Exploring **Mixed Reality / VR** for 3D data visualization, situational awareness, and decision support in the field
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 iPAT · TU Braunschweig
-**Student Research Assistant (HiWi) — Data Science & ML**
-`Jan 2026 – Jun 2026 · Braunschweig, Germany`
+<h3>🔬 iPAT · TU Braunschweig &nbsp;<sub><code>Jan–Jun 2026</code></sub></h3>
 
-- **Symbolic Regression** using PySR — discovering interpretable equations from experimental data
-- **Physics-informed preprocessing**: dimensional analysis, normalization, domain-guided feature engineering
-- Handling **noisy experimental data** with weighted loss functions for robust model training
-- Pushed **R² 0.59 → 0.86**, achieved **F1 = 1.00** on variable identification, cut runtime **386s → 118s**
+**Student Research Assistant (HiWi) · Data Science & ML**
+*Brunswick, Germany · On-site*
+
+- **Symbolic regression with PySR** — automatically discovering interpretable mathematical equations from physical data
+- **Physics-informed preprocessing**: dimensional analysis, normalization, domain-guided feature engineering on real experimental datasets
+- Handling **noisy sensor data** with weighted loss functions to ensure robust, generalizable model training
+- Achieved **R² 0.9968, F1 = 1.00** on variable identification; slashed pipeline runtime by **3.3×**
 
 </td>
 </tr>
@@ -77,34 +94,36 @@ ayush = {
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 [PlainSpeak](https://github.com/ayush009/PlainSpeak)
+<h3>🏥 <a href="https://github.com/ayush009/PlainSpeak">PlainSpeak</a></h3>
+
 **AI-Powered Clinical Care Intelligence**
 
-> Turning discharge instructions into grounded, voice-accessible care guidance for patients
+> Turning hospital discharge instructions into grounded, voice-accessible care guidance for real patients
 
-- Full-stack clinical AI: **FastAPI + Vanilla JS**, deployed on **Render**
-- Multi-LLM routing: **OpenRouter / Groq / Ollama / Claude** — runs 100% free
-- **Web Speech API** voice input + clinician approval workflow
-- Auto-seeds live patient demo — zero setup needed
+- **Multi-LLM routing**: OpenRouter → Groq → Ollama → Claude — runs **100% free**
+- Full-stack: **FastAPI** backend + **Vanilla JS** frontend · Dockerized · deployed on **Render**
+- **Web Speech API** voice input + clinician approval workflow + structured care plan generation
+- Auto-seeds a live patient demo — zero setup, try it instantly
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_It-6366f1?style=flat-square)](https://plainspeak-7nwv.onrender.com)
-[![Repo](https://img.shields.io/badge/GitHub-PlainSpeak-181717?style=flat-square&logo=github)](https://github.com/ayush009/PlainSpeak)
+<a href="https://plainspeak-7nwv.onrender.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-Try_Now-6366f1?style=for-the-badge" /></a>
+<a href="https://github.com/ayush009/PlainSpeak"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github" /></a>
 
-`FastAPI` `LLM` `RAG` `Docker` `OpenRouter` `Web Speech API`
+`FastAPI` `LLM` `RAG` `Docker` `OpenRouter` `Groq` `Ollama`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [Cura](https://github.com/ayush009/ai_learning_support_backend)
+<h3>🎓 <a href="https://github.com/ayush009/ai_learning_support_backend">Cura</a></h3>
+
 **AI Learning Platform for Nursing Education**
 
 > RAG pipeline grounding LLM answers in real nursing course PDFs
 
-- End-to-end **RAG**: FastAPI + **Qdrant** vector DB + LangChain + OpenAI
-- Semantic search, adaptive quizzes, AI-guided patient case studies
-- **Speech-to-Text** + multilingual support for diverse learners
+- End-to-end **RAG**: FastAPI + **Qdrant** vector DB + LangChain + OpenAI API
+- Semantic search over nursing PDFs, adaptive quizzes, AI-guided patient case studies
+- Integrated **Speech-to-Text** + multilingual support for diverse learner needs
 
-[![Repo](https://img.shields.io/badge/GitHub-Cura-181717?style=flat-square&logo=github)](https://github.com/ayush009/ai_learning_support_backend)
+<a href="https://github.com/ayush009/ai_learning_support_backend"><img src="https://img.shields.io/badge/GitHub-Source-181717?style=for-the-badge&logo=github" /></a>
 
 `FastAPI` `Qdrant` `LangChain` `RAG` `OpenAI` `Speech-to-Text`
 
@@ -113,29 +132,31 @@ ayush = {
 <tr>
 <td width="50%" valign="top">
 
-### 📐 Graph-Based Symbolic Regression
+<h3>📐 Graph-Based Symbolic Regression</h3>
+
 **Research @ iPAT · TU Braunschweig**
 
-> Recovering physical equations from data using Graph Neural Networks + PySR
+> Recovering physical equations from experimental data using GNNs + symbolic search
 
-- **R² 0.59 → 0.86** via feature selection & symbolic candidate ranking
-- **Variable F1 = 1.00 · Numeric R² = 0.9968** vs ground-truth formulas
-- Runtime cut **386s → 118s** (3.3× speedup) through backend optimization
-- Physics-informed preprocessing for real experimental datasets
+- **R² 0.59 → 0.86** through feature selection + symbolic candidate ranking
+- **Variable identification F1 = 1.00 · Numeric R² = 0.9968** vs ground-truth
+- Runtime **386s → 118s** (3.3× speedup) via backend optimization
+- Physics-informed preprocessing on real noisy experimental datasets
 
-`GNN` `GAT` `PySR` `Symbolic Regression` `PyTorch` `Interpretable ML`
+`GNN` `GAT` `PySR` `PyTorch` `Symbolic Regression` `Interpretable ML`
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 [DriveWorth](https://github.com/ayush009)
-**Used Car Price Prediction with Explainability**
+<h3>🚗 <a href="https://github.com/ayush009">DriveWorth</a></h3>
 
-> Production ML app — R² = 0.91, ensemble models + SHAP transparency
+**Used Car Price Prediction · R² = 0.91**
 
-- Ensemble: **XGBoost + Random Forest + CatBoost** — R² = 0.91
+> Ensemble ML with SHAP explainability — transparent, production-ready pricing
+
+- Ensemble: **XGBoost + Random Forest + CatBoost** — **R² = 0.91**
 - **SHAP explainability** + ownership-based pricing logic for transparent decisions
-- Deployed as **Streamlit** app with real-time INR ↔ EUR conversion
+- **Streamlit** web app with real-time **INR ↔ EUR** conversion
 
 `XGBoost` `CatBoost` `SHAP` `Streamlit` `Scikit-learn`
 
@@ -149,34 +170,28 @@ ayush = {
 
 <div align="center">
 
-**AI / ML / Research**
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,docker,aws&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,linux,js,java,cs&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<br/><br/>
 
-**Backend & Infrastructure**
+| Layer | Technologies |
+|-------|-------------|
+| **GenAI / LLM** | LangChain · LlamaIndex · OpenRouter · Groq · Ollama · Claude · OpenAI |
+| **ML / Research** | PyTorch · scikit-learn · XGBoost · CatBoost · PySR · GNN / GAT |
+| **Backend** | FastAPI · Flask · Docker · REST APIs · Pydantic · uv |
+| **Vector / Data** | Qdrant · PostgreSQL · Pandas · NumPy · HuggingFace |
+| **Cloud / Deploy** | AWS · Render · GitHub Actions · Docker Compose |
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+</div>
 
-**Data & Vector DBs**
+---
 
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+## 🏆 GitHub Trophies
 
-**Languages**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=ayush009&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
@@ -186,55 +201,45 @@ ayush = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush009&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush009&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=a5b4fc&fire=6366f1&currStreakLabel=a5b4fc" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush009&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush009&theme=tokyo-night&hide_border=true&area=true&area_color=6366f1&line=a5b4fc&point=ffffff&bg_color=0d1117" />
 
 </div>
 
 ---
 
-## 🎯 Open to Opportunities
+## 🎯 Open to Work
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🟢  ACTIVELY OPEN TO OPPORTUNITIES                        ║
-║                                                              ║
-║   ✦  GenAI / LLM Engineering                               ║
-║   ✦  AI Research Engineering                               ║
-║   ✦  Data Science  ·  MLOps  ·  NLP / RAG                 ║
-║   ✦  Working Student / Part-time (20h during semester)     ║
-║   ✦  Full-time (semester breaks & post-graduation)         ║
-║                                                              ║
-║   📍  Braunschweig, Germany                                 ║
-║   🌍  Open to remote / hybrid roles across EU              ║
-║   📬  aayushjuyal0@gmail.com                               ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   🟢  ACTIVELY OPEN TO OPPORTUNITIES                            ║
+║                                                                  ║
+║   ✦  GenAI / LLM Engineering                                   ║
+║   ✦  AI / ML Research Engineering                              ║
+║   ✦  Data Science  ·  NLP  ·  RAG  ·  MLOps                   ║
+║   ✦  Working Student · 20h/week during semester                ║
+║   ✦  Full-time · semester breaks & post-graduation             ║
+║                                                                  ║
+║   📍  Braunschweig, Germany                                     ║
+║   🌍  Open to remote / hybrid roles across EU                  ║
+║   📬  aayushjuyal0@gmail.com                                   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
-
----
-
-## 🌱 Currently
-
-| Area | What I'm doing |
-|------|---------------|
-| 🛩️ **Aerospace AI** | Building data-driven HMIs & MR/VR prototypes for flight inspection systems @ Aerodata AG |
-| 🔬 **Research** | Physics-informed symbolic regression — extracting interpretable equations from noisy experimental data @ iPAT |
-| 🏥 **Side Project** | PlainSpeak — open-source clinical AI making healthcare info accessible to patients |
-| 📚 **Learning** | Agentic AI architectures · LLM fine-tuning · German B1 → B2 |
 
 ---
 
@@ -244,10 +249,10 @@ ayush = {
 
 <br/>
 
-**Let's build something meaningful →** [aayushjuyal0@gmail.com](mailto:aayushjuyal0@gmail.com) · [LinkedIn](https://linkedin.com/in/ayushjuyal1)
+**[aayushjuyal0@gmail.com](mailto:aayushjuyal0@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/ayushjuyal1)** &nbsp;·&nbsp; **[GitHub](https://github.com/ayush009)**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
 
 </div>
