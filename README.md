@@ -269,15 +269,13 @@ class AyushJuyal:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush009&theme=tokyonight" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush009&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush009&theme=tokyonight" height="170"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush009&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush009&theme=tokyonight" height="170"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush009&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush009&theme=tokyonight" height="170"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayush009&theme=tokyonight&utcOffset=1" height="170"/>
 
 </div>
 
