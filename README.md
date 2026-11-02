@@ -187,31 +187,33 @@ class AyushJuyal:
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayush009&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayush009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Research & Impact Highlights
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" />
+![](https://img.shields.io/badge/R²_Improvement-0.59_→_0.86-6366f1?style=for-the-badge&labelColor=1e1b4b)
+![](https://img.shields.io/badge/Symbolic_Regression_R²-0.9968-6366f1?style=for-the-badge&labelColor=1e1b4b)
+![](https://img.shields.io/badge/Variable_Identification_F1-1.00-6366f1?style=for-the-badge&labelColor=1e1b4b)
+![](https://img.shields.io/badge/Pipeline_Speedup-3.3×_faster-6366f1?style=for-the-badge&labelColor=1e1b4b)
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush009&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=a5b4fc&fire=6366f1&currStreakLabel=a5b4fc" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush009&theme=tokyo-night&hide_border=true&area=true&area_color=6366f1&line=a5b4fc&point=ffffff&bg_color=0d1117" />
+![](https://img.shields.io/badge/Clinical_AI-Shipped_to_Production-10b981?style=for-the-badge&labelColor=064e3b)
+![](https://img.shields.io/badge/LLM_Stack-100%25_Free_Tier-10b981?style=for-the-badge&labelColor=064e3b)
+![](https://img.shields.io/badge/RAG_Pipelines-2_shipped-10b981?style=for-the-badge&labelColor=064e3b)
+![](https://img.shields.io/badge/Aerospace_AI-Real_Time_Sensor_Data-10b981?style=for-the-badge&labelColor=064e3b)
 
 </div>
 
