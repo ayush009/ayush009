@@ -269,18 +269,15 @@ class AyushJuyal:
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=ayush009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush009&theme=tokyonight" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<!-- Contribution snake — auto-generated daily by GitHub Actions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayush009/ayush009/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayush009/ayush009/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ayush009/ayush009/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush009&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush009&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush009&theme=tokyonight" height="160"/>
 
 </div>
 
