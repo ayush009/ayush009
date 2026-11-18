@@ -17,7 +17,7 @@
 
 [![Status](https://img.shields.io/badge/🟢%20Status-Open%20to%20Work-00C851?style=flat-square&labelColor=064e3b)](mailto:aayushjuyal0@gmail.com)
 &nbsp;
-[![Building](https://img.shields.io/badge/🚀%20Shipping-PlainSpeak%20%7C%20Clinical%20AI-6366f1?style=flat-square&labelColor=1e1b4b)](https://plainspeak-7nwv.onrender.com)
+[![Building](https://img.shields.io/badge/🚀%20Shipping-PlainSpeak%20%7C%20Clinical%20AI-6366f1?style=flat-square&labelColor=1e1b4b)](https://plainspeak-0vyu.onrender.com)
 &nbsp;
 [![Research](https://img.shields.io/badge/🔬%20Researching-Symbolic%20Regression%20%40%20iPAT-a5b4fc?style=flat-square&labelColor=1e1b4b)](https://github.com/ayush009)
 
@@ -171,7 +171,7 @@ class AyushJuyal:
 
 <br/>
 
-[![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Try%20It%20Now-6366f1?style=for-the-badge)](https://plainspeak-7nwv.onrender.com)
+[![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Try%20It%20Now-6366f1?style=for-the-badge)](https://plainspeak-0vyu.onrender.com)
 [![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github)](https://github.com/ayush009/PlainSpeak)
 
 `FastAPI` `Multi-LLM` `RAG` `Docker` `OpenRouter` `Groq` `Ollama`
