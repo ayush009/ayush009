@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=A5B4FC&center=true&vCenter=true&random=false&width=870&lines=%F0%9F%9A%80+Building+production+GenAI+apps+real+users+actually+use;%F0%9F%94%AC+Symbolic+Regression+%C2%B7+Physics-Informed+ML+%C2%B7+GNNs+%40+iPAT;%F0%9F%9B%A9%EF%B8%8F+Aerospace+AI+%40+Aerodata+AG+%E2%80%94+real-time+sensor+%26+mission+data;%F0%9F%A7%A0+RAG+Pipelines+%C2%B7+Multi-LLM+Routing+%C2%B7+Agentic+AI;%E2%9C%A8+Researcher+who+ships.+Engineer+who+publishes.;%F0%9F%8E%AF+Open+to+GenAI+%2F+LLM+Engineering+%2F+AI+Research+%E2%80%94+EU" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=A5B4FC&center=true&vCenter=true&random=false&width=870&lines=%F0%9F%9A%80+Building+production+GenAI+apps+real+users+actually+use;%F0%9F%A5%BD+NeuroGraph+XR+%E2%80%94+explore+AI+in+3D+%26+VR%2C+talk+to+a+local+AI+tutor;%F0%9F%94%AC+Symbolic+Regression+%C2%B7+Physics-Informed+ML+%C2%B7+GNNs+%40+iPAT;%F0%9F%9B%A9%EF%B8%8F+Aerospace+AI+%40+Aerodata+AG+%E2%80%94+real-time+sensor+%26+mission+data;%F0%9F%A7%A0+RAG+Pipelines+%C2%B7+Multi-LLM+Routing+%C2%B7+Agentic+AI;%E2%9C%A8+Researcher+who+ships.+Engineer+who+publishes.;%F0%9F%8E%AF+Open+to+GenAI+%2F+LLM+Engineering+%2F+AI+Research+%E2%80%94+EU" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -16,6 +16,8 @@
 <br/>
 
 [![Status](https://img.shields.io/badge/🟢%20Status-Open%20to%20Work-00C851?style=flat-square&labelColor=064e3b)](mailto:aayushjuyal0@gmail.com)
+&nbsp;
+[![New](https://img.shields.io/badge/🥽%20Just%20launched-NeuroGraph%20XR-ec4899?style=flat-square&labelColor=500724)](https://github.com/ayush009/NeuroGraph-XR)
 &nbsp;
 [![Building](https://img.shields.io/badge/🚀%20Shipping-PlainSpeak%20%7C%20Clinical%20AI-6366f1?style=flat-square&labelColor=1e1b4b)](https://plainspeak-0vyu.onrender.com)
 &nbsp;
@@ -35,28 +37,34 @@
 
 <table>
 <tr>
-<td align="center" width="22%">
+<td align="center" width="20%">
 <br/>
 <b style="font-size:1.4em">0.59 → 0.86</b><br/>
 <sub>R² improvement via feature selection<br/>& symbolic candidate ranking</sub>
 <br/><br/>
 </td>
-<td align="center" width="22%">
+<td align="center" width="20%">
 <br/>
 <b style="font-size:1.4em">R² = 0.9968</b><br/>
 <sub>Symbolic regression accuracy<br/>vs ground-truth formulas</sub>
 <br/><br/>
 </td>
-<td align="center" width="22%">
+<td align="center" width="20%">
 <br/>
 <b style="font-size:1.4em">386s → 118s</b><br/>
 <sub>Pipeline runtime cut 3.3×<br/>through backend optimization</sub>
 <br/><br/>
 </td>
-<td align="center" width="22%">
+<td align="center" width="20%">
 <br/>
 <b style="font-size:1.4em">0 → prod</b><br/>
 <sub>Clinical AI shipped live<br/>on 100% free LLM stack</sub>
+<br/><br/>
+</td>
+<td align="center" width="20%">
+<br/>
+<b style="font-size:1.4em">~3 s voice → answer</b><br/>
+<sub>100% local GraphRAG tutor<br/>in 3D / VR (NeuroGraph XR)</sub>
 <br/><br/>
 </td>
 </tr>
@@ -88,6 +96,7 @@ class AyushJuyal:
 
     # Craft
     builds      = "Production GenAI — RAG pipelines, multi-LLM routing, Agentic AI"
+    side_quest  = "NeuroGraph XR — AI concepts in 3D/VR with a local voice tutor 🥽"
     researches  = "Discovering equations from experimental data · Interpretable ML · XAI"
 
     # What I want next
@@ -96,7 +105,7 @@ class AyushJuyal:
 
     # Human side
     languages   = {
-        "code"   : ["Python", "JavaScript", "Java", "C#"],
+        "code"   : ["Python", "JavaScript", "Java", "C#", "GDScript"],
         "spoken" : ["English 🇬🇧 (Fluent)", "German 🇩🇪 (B1 → B2)"],
     }
     fun_fact    = "Taught children with autism in China via AIESEC — empathy first 🌏"
@@ -150,6 +159,61 @@ class AyushJuyal:
 </td>
 </tr>
 </table>
+
+---
+
+## 🌟 Featured Project — NeuroGraph XR
+
+<div align="center">
+
+<a href="https://github.com/ayush009/NeuroGraph-XR"><img src="https://raw.githubusercontent.com/ayush009/NeuroGraph-XR/main/docs/media/demo.webp" width="820" alt="NeuroGraph XR demo"/></a>
+
+### 🧠 Learn how AI works — by walking through it in 3D and VR
+
+*Knowledge graphs you can fly through · a neural network you can pull apart · an AI tutor you can talk to*
+
+[![Play in browser](https://img.shields.io/badge/▶%20Play%20in%20Browser-No%20Install-2EA44F?style=for-the-badge)](https://ayush009.github.io/NeuroGraph-XR/)
+[![Download](https://img.shields.io/badge/⬇%20Windows%20App-VR%20·%20AI%20·%20Voice-478CBF?style=for-the-badge)](https://github.com/ayush009/NeuroGraph-XR/releases/latest)
+[![Source](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/ayush009/NeuroGraph-XR)
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**What it does**
+- 🌌 **3D knowledge graph** of 88 AI concepts (LLM Engineering + Data Science) — fly through, click, follow connections
+- 🎙️ **Voice AI tutor** — hold a button, ask out loud, hear the answer (speech → text → **GraphRAG** → LLM → speech)
+- 🔍 **Grounded answers** — retrieved concepts light up in 3D; the LLM answers *only* from those facts
+- 🧠 **Neural network** you can explode, with a real forward pass computed live layer by layer
+- 🧪 **Interactive labs** — a real BPE tokenizer, attention visualiser, temperature / top-k sampling
+- 🥽 **Full VR mode** (OpenXR) — the whole UI floats in front of you, the controller laser is the mouse
+- 🔒 **100% local** — no cloud, no API keys, nothing leaves the machine
+
+</td>
+<td width="45%" valign="top">
+
+**Engineering highlights**
+| | |
+|---|---|
+| 🎤 Speech → text | ~0.8 s (Whisper, CPU) |
+| 🦙 Local LLM answer | ~2–3 s (Llama 3.2 3B) |
+| 🔊 Voice starts | ~1.5 s after the text |
+| 🥽 VR frame rate | 90 fps on a laptop RTX 3050 |
+| 🌐 Web build | runs in any modern browser |
+
+`Godot 4` `OpenXR` `GDScript` `GraphRAG` `Ollama` `Llama 3.2` `faster-whisper` `TTS` `WebGL` `Python`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/ayush009/NeuroGraph-XR/main/docs/media/02_concept_card.jpg" width="32%" alt="Concept card"/>
+<img src="https://raw.githubusercontent.com/ayush009/NeuroGraph-XR/main/docs/media/04_neural_network.jpg" width="32%" alt="Neural network"/>
+<img src="https://raw.githubusercontent.com/ayush009/NeuroGraph-XR/main/docs/media/05_ask_ai_voice.jpg" width="32%" alt="Ask AI by voice"/>
+</div>
 
 ---
 
@@ -250,12 +314,16 @@ class AyushJuyal:
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,docker,aws,postgres&theme=dark&perline=8" />
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,js,java,cs,bash&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=godot,blender,html,css&theme=dark&perline=8" />
 
 <br/><br/>
 
 | Layer | Technologies |
 |-------|-------------|
-| **GenAI / LLM** | LangChain · OpenRouter · Groq · Ollama · Anthropic Claude · OpenAI |
+| **GenAI / LLM** | LangChain · OpenRouter · Groq · Ollama · Anthropic Claude · OpenAI · GraphRAG |
+| **Speech AI** | Whisper (faster-whisper) · neural TTS · Web Speech API |
+| **3D / XR** | Godot 4 · OpenXR · GDScript · WebGL · 3D data visualisation |
 | **ML / Research** | PyTorch · PySR · XGBoost · CatBoost · scikit-learn · GNN / GAT |
 | **Backend** | FastAPI · Flask · Docker · Pydantic · REST APIs · uv |
 | **Data & Vector DB** | Qdrant · PostgreSQL · Pandas · NumPy · HuggingFace |
@@ -294,8 +362,14 @@ class AyushJuyal:
 
 ![](https://img.shields.io/badge/Clinical_AI-Shipped_to_Production-10b981?style=for-the-badge&labelColor=064e3b)
 ![](https://img.shields.io/badge/LLM_Stack-100%25_Free-10b981?style=for-the-badge&labelColor=064e3b)
-![](https://img.shields.io/badge/RAG_Pipelines-2_shipped-10b981?style=for-the-badge&labelColor=064e3b)
+![](https://img.shields.io/badge/RAG_Pipelines-3_shipped-10b981?style=for-the-badge&labelColor=064e3b)
 ![](https://img.shields.io/badge/Aerospace_AI-Real_Time_Data-10b981?style=for-the-badge&labelColor=064e3b)
+
+<br/>
+
+![](https://img.shields.io/badge/Local_Voice_AI_Tutor-Speech_In_→_Speech_Out-ec4899?style=for-the-badge&labelColor=500724)
+![](https://img.shields.io/badge/3D_%2F_VR_App-OpenXR_·_Web-ec4899?style=for-the-badge&labelColor=500724)
+![](https://img.shields.io/badge/Open_Source-MIT-ec4899?style=for-the-badge&labelColor=500724)
 
 </div>
 
@@ -315,6 +389,7 @@ class AyushJuyal:
 ║   ✦  GenAI, RAG, multi-LLM systems — designed & shipped             ║
 ║   ✦  FastAPI · Docker · Cloud deployment · clean Python              ║
 ║   ✦  Aerospace AI · real-time sensor data · HMI design              ║
+║   ✦  3D / VR learning apps with GenAI — Godot · OpenXR · voice AI   ║
 ║                                                                      ║
 ║   What I'm looking for:                                              ║
 ║   ✦  GenAI / LLM Engineering                                        ║
